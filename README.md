@@ -2,6 +2,6 @@
 
 ## TODO
 
-- Continue: https://learn.svelte.dev/tutorial/nested-components
+- Continue: https://learn.svelte.dev/tutorial/reactive-statements
 
 ---
